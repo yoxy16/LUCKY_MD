@@ -1,5 +1,5 @@
 {
-  "name":"𝗟𝗨𝗖𝗞𝗬 𝗠𝗗 𝗨𝗣𝗗𝗔𝗧𝗘 𝗕𝗬 𝗠𝗘",
+  "name":"𝗟𝗨𝗖𝗞 BRIAN",
   "description":"Best WhatsApp Bot Developed By Fredie Ezra Contact Us 255686745716,255764182801,255620814108,255752593977 Thank you for choose Lucky Md",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/187cfa2365d88ffe98fec.jpg",
@@ -34,7 +34,7 @@
     ,
     "BOT_NAME" : {
        
-      "description":"put A name for your bot",
+      "description":"Brjann11 ",
       "value":"𝗟𝗨𝗖𝗞𝗬 𝗠𝗗",
       "required":false
 
@@ -64,7 +64,7 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
+      "description":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicU5JRUp3RlRjdE5nRUxNZzFqR1hOWktIc0lBd1lUWG55OXRKN2E1UXlGcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieENENU1LWHBpZkNjbmxlRnlIWHhQS0RQdGIrZmgxcjlhN3U1NGlzeHBXMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNRVU0cDVHSXkrZmpYUENHaFM0emNsZHV5TmRDT09yaDZvWFFna0kwcFZNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2cEd2dytUWVN5eVFBSDhaSVRhTTFqa3kxVnFtVWRIaFVkcEI3MTczVVN3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVLNUwyZjN5NTBnNGdrR1M2NHI2TWx5TTU0bGF2a3JHZ3hkYTJ2RWpSMWc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InJ6WWExUjk4Mm5WSVp1YzUvaFVXRE9meUNiQVI2S2YybGpmVUUxQ3hUQ2s9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUQzdDdZTVM2OXNuaElXK3JBblUvWXk5K1VWNzRLQWlaUmtSc3JVMk5tYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVTFGRHBVM1p4dlYxaEpOVm1RdnN5RmdTY2w2ZEU1VWZod3J1RXVveUZ3WT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlhZbjJpbi9KQ0wwc0trKzFnZEtUdmJISDRMQkZCVGNvUmtKZ00vczcrVHZ2UU52azlUNGhIU2tJOFhva3FIRTFheGZuaWF6MlFVdHFPWmhQSHZaNGlRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTY2LCJhZHZTZWNyZXRLZXkiOiJmbDdHN0MwbVFyTGZDcFZSRlZjMWpOR2NGbWhjRlorRXYzYXVXbXNDVkU4PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI1NTc1MzMwNjU4NkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIyN0Q3NjVFMEU4MjdCREE5Q0ExRTMyOUQ4MTYzQzUwMyJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzI2NjExNzUyfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ6SVJ4Rm1JRlEwR3FEVzBaNnhmRDl3IiwicGhvbmVJZCI6IjVhNTc5ZmU5LTA2YWMtNGIxYi05NWViLTcwMjVmM2UxNGYxMiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJreUhzZXYzMWxJbGlNL1Q2aWIybE11aG9la0k9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNHdvUzFTR3BMWStXMktyNXE4N0FVOEhoZDNzPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkNTWE1KVlQ2IiwibWUiOnsiaWQiOiIyNTU3NTMzMDY1ODY6MjJAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiQnJqw6FubiJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSmkwbjdBQ0VKT0NxTGNHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiMVEzOXVYc29vTm1Ma0dUM2huaUVWQ01ZNFJnZFJrbkVUbU1Kd2RwR3QzWT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiVFBZT3ZyZUVYcC91WXNFTlNXRzVhSi9MSCttYzJ4RXBHT3VjQmJSNW5LVjFXMC9hdGY4Y2VqMU5YY2RJU0RZQjk3VTllVzNUdUZidSt3VzlreEtuRFE9PSIsImRldmljZVNpZ25hdHVyZSI6IklkSDRJeC9odmw4b0RRd3VnMGVwKy9UU2ErL295NGRISXcwMmhTTVdGV0hRTHVmbWVNcjN6V0Erb0toS0VuOXJuVlcxbE9XWDBBVTNxeTdWR2FzaWdnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU1NzUzMzA2NTg2OjIyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmRVTi9ibDdLS0RaaTVCazk0WjRoRlFqR09FWUhVWkp4RTVqQ2NIYVJyZDIifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjY2MTE3NDYsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTTE1In0=",   
       "value":"",
       "required":true
       
@@ -72,7 +72,7 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "BRIAN",
     "required": false,
     "value": "ғʀᴇᴅɪᴇ ᴛᴇᴄʜ"
   },
@@ -81,13 +81,13 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255686745716,255764182801,255620814108,255752593977"
+    "value": "255753306586"
 	  
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
-    "required": false,
+    "required": true,
     "value": "5"
   },
   "STARTING_BOT_MESSAGE":
